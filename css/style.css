@@ -251,3 +251,22 @@ img {
       width: 300px;
     }
   }
+/* calendar */
+.calendar {
+    color: #fff;
+}
+.calendar h1 {
+    color: #000;
+    font-size: 30px;
+    margin: 20px 0;
+}
+.calendar p {
+    margin: 20px 0;
+}
+.calendar .grid {
+    overflow: visible;
+    gap: 30px;
+}  
+.calendar .flex {
+    margin-bottom: 10px;
+}
